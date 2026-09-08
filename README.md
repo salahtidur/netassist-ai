@@ -23,9 +23,13 @@ users troubleshoot computer and networking problems.
 ## 🧠 AI Configuration
 
 Model: Gemini
+
 Domain: IT Support
+
 Language: Indonesian
+
 Style: Professional
+
 Memory: Enabled
 
 ## 🏗️ Architecture
