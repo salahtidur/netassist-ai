@@ -43,19 +43,6 @@ Node.js + Express
 AI:
 Google Gemini
 
-## 📂 Project Structure
-
-netassist-ai/
-├── public/
-│   ├── index.html
-│   ├── style.css
-│   └── app.js
-├── server.js
-├── package.json
-├── .env
-├── .gitignore
-└── README.md
-
 ## ▶️ Run
 
 npm install
