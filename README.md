@@ -69,10 +69,10 @@ Open:
 http://localhost:3000
 
 ## 📸 Screenshots
-![Screenshot](images/ssHome.JPG)
-![Screenshot](images/ssChat.JPG)
-![Screenshot](images/ssParameter.jpg)
-![Screenshot](images/ssMemori.JPG)
+<img src="images/ssHome.JPG" width="400">
+<img src="images/ssChat.JPG" width="400">
+<img src="images/ssParameter.jpg" width="400">
+<img src="images/ssMemori.JPG" width="400">
 
 ## 👨‍💻 Author
 
