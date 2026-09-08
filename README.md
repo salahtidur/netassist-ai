@@ -69,10 +69,11 @@ Open:
 http://localhost:3000
 
 ## 📸 Screenshots
-
-Add screenshots here.
+![Screenshot](images/ssHome.jpg)
+![Screenshot](images/ssChat.jpg)
+![Screenshot](images/ssParameter.jpg)
+![Screenshot](images/ssMemori.jpg)
 
 ## 👨‍💻 Author
 
-Kristian Dwicandra"# netassist-ai" 
-"# netassist-ai" 
+Kristian Dwicandra
