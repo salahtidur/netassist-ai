@@ -1,13 +1,13 @@
 # 🛠️ NetAssist AI
 
-AI-powered IT Support Chatbot using Gemini LLM.
+Chatbot Dukungan TI berbasis AI yang menggunakan Gemini LLM
 
-## 📌 Use Case
+## 📌 Kasus Penggunaan
 
-NetAssist AI is an AI chatbot designed to help
-users troubleshoot computer and networking problems.
+NetAssist AI adalah chatbot AI yang dirancang untuk membantu
+pengguna memecahkan masalah komputer dan jaringan.
 
-## 🚀 Features
+## 🚀 Fitur
 
 - Gemini LLM
 - Natural Language Processing
@@ -20,7 +20,7 @@ users troubleshoot computer and networking problems.
 - Vanilla JavaScript Frontend
 - Node.js + Express Backend
 
-## 🧠 AI Configuration
+## 🧠 Konfigurasi AI
 
 Model: Gemini
 
@@ -32,7 +32,7 @@ Style: Professional
 
 Memory: Enabled
 
-## 🏗️ Architecture
+## 🏗️ Arsitektur
 
 Frontend:
 Vanilla JavaScript
@@ -43,19 +43,19 @@ Node.js + Express
 AI:
 Google Gemini
 
-## ▶️ Run
+## ▶️ Menjalankan
 
 npm install
 
-Create .env:
+Buat file .env:
 
 GEMINI_API_KEY=YOUR_API_KEY
 
-Run:
+Jalankan:
 
 npm run dev
 
-Open:
+Buka:
 
 http://localhost:3000
 
@@ -67,4 +67,4 @@ http://localhost:3000
 
 ## 👨‍💻 Author
 
-Kristian Dwicandra
+Kristian DC
