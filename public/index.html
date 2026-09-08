@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>NetAssist AI</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+<aside>
+
+    <!-- LOGO -->
+    <div class="brand">
+        <div class="brand-title">
+            🛠️ <span>NetAssist AI</span>
+        </div>
+
+        <div class="brand-subtitle">
+            AI IT Support Assistant
+        </div>
+    </div>
+
+
+    <!-- CONFIGURATION -->
+    <div class="configuration">
+
+        <label for="language">
+            Bahasa
+        </label>
+
+        <select id="language">
+            <option>Indonesia</option>
+            <option>English</option>
+        </select>
+
+
+        <label for="style">
+            Gaya Bahasa
+        </label>
+
+        <select id="style">
+            <option>Profesional</option>
+            <option>Santai</option>
+        </select>
+
+
+        <label for="level">
+            Level
+        </label>
+
+        <select id="level">
+            <option>Pemula</option>
+            <option>Menengah</option>
+            <option>Advanced</option>
+        </select>
+
+
+        <button id="clear">
+            Clear Chat
+        </button>
+
+    </div>
+
+</aside>
+
+    <main>
+
+        <div id="chat"></div>
+
+        <form id="chatForm">
+
+            <input
+                id="message"
+                type="text"
+                placeholder="Tanyakan masalah IT Anda..."
+                required
+            >
+
+            <button type="submit">
+                Send
+            </button>
+
+        </form>
+
+    </main>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="app.js"></script>
+
+</body>
+
+<footer class="footer">
+    <strong>Powered By: Gemini, Build by: Kristian Dwicandra @2026</strong>
+</footer>
+</html>
